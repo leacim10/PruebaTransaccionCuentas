@@ -1,0 +1,9 @@
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\bin\Debug\Dominio.dll
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\bin\Debug\Dominio.pdb
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\bin\Debug\AccesoDatos.dll
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\bin\Debug\AccesoDatos.pdb
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\obj\Debug\Dominio.dll
+D:\DEVELOPER\BCP\BCP_CCMR\Dominio\obj\Debug\Dominio.pdb
